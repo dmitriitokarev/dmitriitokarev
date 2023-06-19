@@ -16,7 +16,7 @@ PostgreSQL, MySQL
 Python, Pandas, Numpy, Matplotlib, SciPy, Seaborn, statsmodels, Plotly
 <br><br>
 ### Connect with me:
-<p><a href="https://vk.com/id107559"><img src="https://img.shields.io/badge/VK.COM-red?logo=linkedin&logoColor=white" height=25></a></p>
+<p><a href="https://vk.com/id107559"><img src="https://img.shields.io/badge/VK.COM-blue?logo=linkedin&logoColor=white" height=25></a></p>
 
 <!--
 **dmitriitokarev/dmitriitokarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
